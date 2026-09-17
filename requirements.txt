@@ -45,7 +45,6 @@ google-genai==2.8.0
 greenlet==3.5.0
 h11==0.16.0
 hf-xet==1.5.1
-holehe @ file:///C:/Users/Haris/OneDrive/Desktop/Hacking%20Tools/holehe
 httpcore==1.0.9
 httpx==0.28.1
 httpx-sse==0.4.3
